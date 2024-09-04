@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Khushi Parikh",
+  title: "khushi parikh's portfolio",
   description: "6.1040 Fall 2024",
   base: "/portfolio-parikhushi/",
   themeConfig: {
