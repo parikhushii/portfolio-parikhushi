@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "khushi parikh"
+  text: "6.1040 fa24"
+  tagline: "pretty pretty portfolio"
   actions:
     - theme: brand
       text: Template Repository

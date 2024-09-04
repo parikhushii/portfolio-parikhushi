@@ -2,10 +2,9 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "TODO: add your title here",
+  title: "Khushi Parikh",
   description: "6.1040 Fall 2024",
-  // TODO: add your base here; this should be your repo name!
-  // base: "/<REPO_NAME>/",
+  base: "/portfolio-parikhushi/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
