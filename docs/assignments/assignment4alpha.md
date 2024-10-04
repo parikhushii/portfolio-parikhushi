@@ -5,7 +5,7 @@ layout: doc
 
 # A4: Backend Design (Alpha)
 
-## Some Important Links
+## (*Prominent*)Links
 
 + **Backend Code Repo:** [https://github.com/parikhushii/fa-24-backend](https://github.com/parikhushii/fa-24-backend)
     - full, (mostly) working implementation of **Labeling** and **Requesting**
