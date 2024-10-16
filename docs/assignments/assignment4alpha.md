@@ -1,4 +1,4 @@
----
+<!-- ---
 title: A4 alpha
 layout: doc
 ---
@@ -248,4 +248,4 @@ layout: doc
 
 ## Dependency Diagram
 
-![image](/../assets/images/A3/DependencyDiagram.jpg)
+![image](/../assets/images/A3/DependencyDiagram.jpg) -->
