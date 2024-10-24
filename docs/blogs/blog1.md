@@ -40,7 +40,7 @@ In this blog, I aim to use a cognitive walkthrough to expose the considerable br
 | **_3. Know it was the right thing_** | **No!** Because the panel to deactivate my Instagram account is so far nested in my account Settings, it was often unclear which parent panels I needed to click into to find it. As I got closer to the child panel, parent panel descriptions included “deactivate or delete account,” but I did not know how many more layers of nesting I would have to enter through. The nesting hierarchy is unintuitive and arbitrary. |
 | **_4. Understand their progress_** | **Yes!** I can see the form to deactivate my account.                                                                                                                                                                                                                                                                                                       |
 
-![image](/../assets/images/Blog1/InstagramMetaAcctCtr.png)
+![image](/../assets/images/Blog1/InstagramSettings.png)
 
 ## Confirming Account Deactivation
 
@@ -51,8 +51,7 @@ In this blog, I aim to use a cognitive walkthrough to expose the considerable br
 | **_3. Know it was the right thing_** | **No!** Depending on the reason I chose to deactivate my account, the form shows me an intermediate screen before asking if I want to deactivate. The intermediate screen contains links to Meta articles offering alternatives to deactivation related to my reason. There is no indicator on this screen that I will still eventually be asked if I want to deactivate. |
 | **_4. Understand their progress_** | **No!** If I do successfully deactivate my account, Instagram takes me back to the Login page. Out of instinct or habit, or even to check that my account was successfully deactivated, I might log back in. Once I do that, my account becomes re-activated and I cannot deactivate it again for the next seven days.                          |
 
-![image](/../assets/images/Blog1/InstagramSettings.png)
-
+![image](/../assets/images/Blog1/InstagramMetaAcctCtr.png)
 
 ## Reflection
 
